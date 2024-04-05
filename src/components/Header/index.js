@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <C.Container>
       <C.Header>
-        <C.Title>Meu Financeiro</C.Title>
+        <C.Title>myFinance.io</C.Title>
         <C.Logo src={logo} alt="logo" />
       </C.Header>
     </C.Container>
